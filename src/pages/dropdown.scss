@@ -1,0 +1,10 @@
+.drop {
+    overflow: hidden;
+    height: 0;
+    transition: all 200ms ease-in-out;
+}
+
+.menu--collapsed {
+    width: 200px;
+    height: 60px;
+  }
